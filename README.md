@@ -32,9 +32,9 @@ The program is designed to improve the efficiency and reliability of structural 
 ```
 StruTest4.0/
 │
-├── Software/
+├── 01 Software/
 │   └── StruTest4.0.xlsx
-├── Documentation/
+├── 02 Documentation/
 │   └── User_Manual.pdf
 ├── Example_Dataset.xlsx
 ├── LICENSE
